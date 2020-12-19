@@ -5,7 +5,6 @@ Welcome!\
 I am a third year pyschology student at Dalhousie University who's practicing programming. I have completed Intro to Python and am currently enrolled in Neura Data Science.
 
 \
-\
 Code Snippets:
 
 - [Efficient Coding](https://www.youtube.com/watch?v=tZRZu-qdtoE&feature=youtu.be)
