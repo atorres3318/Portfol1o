@@ -1,11 +1,12 @@
 # Anna Torres
 ![](pic.png)
 
-Welcome!
-I am a pyschology student at Dalhousie University practicing my programming. My knowledge is limited but here's what I can do.
+Welcome!\
+I am a pyschology student at Dalhousie University practicing my programming.
+\
 
 
-
+\
 Code Snippets:
 
 - [Efficient Coding](https://www.youtube.com/watch?v=tZRZu-qdtoE&feature=youtu.be)
