@@ -2,11 +2,11 @@
 ![](pic.png)
 
 Welcome!
-I am an pyschology student at Dalhousie University practicing my programming. 
+I am a pyschology student at Dalhousie University practicing my programming. My knowledge is limited but here's what I can do.
 
 
 
-Code Examples:
+Code Snippets:
 
 - [Efficient Coding](https://www.youtube.com/watch?v=tZRZu-qdtoE&feature=youtu.be)
 - [Data Structures](https://github.com/atorres3318/Portfol1o/blob/main/2020-11-07-173359%20(2).ipynb)
