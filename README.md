@@ -2,10 +2,9 @@
 ![](pic.png)
 
 Welcome!\
-I am a pyschology student at Dalhousie University practicing my programming.
+I am a pyschology student at Dalhousie University who's practicing programming.
+
 \
-
-
 \
 Code Snippets:
 
