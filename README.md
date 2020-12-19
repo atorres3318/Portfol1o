@@ -1,7 +1,9 @@
 # Anna Torres
 ![](pic.png)
 
-Undergraduate Psychology Student at Dalhousie University
+Welcome!
+I am an pyschology student at Dalhousie University practicing my programming. 
+
 
 
 Code Examples:
