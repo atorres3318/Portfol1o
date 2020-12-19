@@ -2,7 +2,7 @@
 ![](pic.png)
 
 Welcome!\
-I am a third year pyschology student at Dalhousie University who's practicing programming. I have completed Intro to Python and am currently enrolled in Neura Data Science.
+I am a third year pyschology student at Dalhousie University who's practicing programming. I have completed Intro to Python and am currently enrolled in Neural Data Science.
 
 \
 Code Snippets:
