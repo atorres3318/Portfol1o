@@ -1,4 +1,6 @@
 # Anna Torres
+![](pic.png)
+
 Undergraduate Psychology Student at Dalhousie University
 
 
